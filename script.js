@@ -1,4 +1,4 @@
-const apiKey = "8745e3a4"; // paste your OMDb key
+const apiKey = "8745e3a4"; // 
 const movieInput = document.getElementById("movieInput");
 const searchBtn = document.getElementById("searchBtn");
 const results = document.getElementById("results");
